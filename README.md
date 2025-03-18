@@ -61,6 +61,6 @@ Este projeto é de código aberto e pode ser utilizado livremente. 😊
 ---
 
 Feito com 💙 por Liszt 
-https://github.com/L-Liszt/Challenge-Amigo-Secreto
-https://challenge-amigo-secreto-seven-kappa.vercel.app/
+- 🔹 https://github.com/L-Liszt/Challenge-Amigo-Secreto
+- 🔹 https://challenge-amigo-secreto-seven-kappa.vercel.app/
 
